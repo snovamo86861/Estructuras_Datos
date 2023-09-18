@@ -88,20 +88,20 @@ public class EvaluadorPostfijo {
 
 
 
-    /**
-     * Realiza la conversión de la notación infija a postfija
-     * @return la expresión convertida a postfija
-     * OJO: Debe usarse el algoritmo que está en el enunciado OBLIGATORIAMENTE
+/**
+ * Realiza la conversión de la notación infija a postfija
+ * @return la expresión convertida a postfija
+ * OJO: Debe usarse el algoritmo que está en el enunciado OBLIGATORIAMENTE
 
     static List<String> convertirAPostfijo(List<String> expresion) {
-    Stack<String> pila = new Stack<>();
-    List<String> salida = new ArrayList<>();
+        Stack<String> pila = new Stack<>();
+        List<String> salida = new ArrayList<>();
 
-    // TODO: Escriba el algoritmo aquí
+        // TODO: Escriba el algoritmo aquí
 
-    return salida;
+        return salida;
     }
-     */
+ */
 
 
     static List<String> convertirAPostfijo(List<String> expresion) {
@@ -179,11 +179,11 @@ public class EvaluadorPostfijo {
      * @return el resultado de la evaluación de la expresión.
 
     static int evaluarPostFija(List<String> expresion) {
-    Stack<Integer> pila = new Stack<>();
+        Stack<Integer> pila = new Stack<>();
 
-    // TODO: Realiza la evaluación de la expresión en formato postfijo
+        // TODO: Realiza la evaluación de la expresión en formato postfijo
 
-    return pila.pop();
+        return pila.pop();
     }
      */
 
