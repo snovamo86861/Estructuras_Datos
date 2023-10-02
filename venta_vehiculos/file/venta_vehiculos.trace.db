@@ -1,0 +1,51 @@
+2023-09-27 14:31:55.481373-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:32:41.100855-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:35:31.621052-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:42:32.422997-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:45:01.896206-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:46:09.812225-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 14:58:01.492594-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:08:37.124743-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:14:31.995872-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:20:43.467394-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:20:54.934123-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:23:08.546880-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:23:20.896573-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:24:29.463361-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:25:59.787701-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:26:36.884148-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
+2023-09-27 15:28:32.312523-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `numEjes` INTEGER , `cilindrada` DOUBLE PRECISION , `valor` DOUBLE PRECISION , `placa` VARCHAR(255) , PRIMARY KEY (`marca`) ) [42101-224]
